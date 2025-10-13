@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\001_start\bin\Debug\001_start.exe.config
+D:\VS Workspace\C_sharp_s1\001_start\bin\Debug\001_start.exe
+D:\VS Workspace\C_sharp_s1\001_start\bin\Debug\001_start.pdb
+D:\VS Workspace\C_sharp_s1\001_start\obj\Debug\001_start.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\001_start\obj\Debug\001_start.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\001_start\obj\Debug\001_start.exe
+D:\VS Workspace\C_sharp_s1\001_start\obj\Debug\001_start.pdb
+D:\VS Workspace\C_sharp_s1\001_start\obj\Debug\001_start.exe.config

@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\017_contunue\bin\Debug\017_contunue.exe.config
+D:\VS Workspace\C_sharp_s1\017_contunue\bin\Debug\017_contunue.exe
+D:\VS Workspace\C_sharp_s1\017_contunue\bin\Debug\017_contunue.pdb
+D:\VS Workspace\C_sharp_s1\017_contunue\obj\Debug\017_contunue.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\017_contunue\obj\Debug\017_contunue.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\017_contunue\obj\Debug\017_contunue.exe
+D:\VS Workspace\C_sharp_s1\017_contunue\obj\Debug\017_contunue.pdb
+D:\VS Workspace\C_sharp_s1\017_contunue\obj\Debug\017_contunue.exe.config

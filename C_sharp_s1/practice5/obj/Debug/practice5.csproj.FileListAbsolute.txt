@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\practice5\bin\Debug\practice5.exe.config
+D:\VS Workspace\C_sharp_s1\practice5\bin\Debug\practice5.exe
+D:\VS Workspace\C_sharp_s1\practice5\bin\Debug\practice5.pdb
+D:\VS Workspace\C_sharp_s1\practice5\obj\Debug\practice5.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\practice5\obj\Debug\practice5.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\practice5\obj\Debug\practice5.exe
+D:\VS Workspace\C_sharp_s1\practice5\obj\Debug\practice5.pdb
+D:\VS Workspace\C_sharp_s1\practice5\obj\Debug\practice5.exe.config

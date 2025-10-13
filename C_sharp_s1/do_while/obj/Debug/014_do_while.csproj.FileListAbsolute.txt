@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\do_while\bin\Debug\do_while.exe.config
+D:\VS Workspace\C_sharp_s1\do_while\bin\Debug\do_while.exe
+D:\VS Workspace\C_sharp_s1\do_while\bin\Debug\do_while.pdb
+D:\VS Workspace\C_sharp_s1\do_while\obj\Debug\014_do_while.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\do_while\obj\Debug\014_do_while.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\do_while\obj\Debug\do_while.exe
+D:\VS Workspace\C_sharp_s1\do_while\obj\Debug\do_while.pdb
+D:\VS Workspace\C_sharp_s1\do_while\obj\Debug\do_while.exe.config

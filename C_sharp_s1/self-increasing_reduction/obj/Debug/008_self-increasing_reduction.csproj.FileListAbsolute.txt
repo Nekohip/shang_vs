@@ -1,0 +1,7 @@
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\bin\Debug\self-increasing_reduction.exe.config
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\bin\Debug\self-increasing_reduction.exe
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\bin\Debug\self-increasing_reduction.pdb
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\obj\Debug\008_self-increasing_reduction.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\obj\Debug\008_self-increasing_reduction.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\obj\Debug\self-increasing_reduction.exe
+D:\VS Workspace\C_sharp_s1\self-increasing_reduction\obj\Debug\self-increasing_reduction.pdb

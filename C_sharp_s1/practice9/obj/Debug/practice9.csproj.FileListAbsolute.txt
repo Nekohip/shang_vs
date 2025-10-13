@@ -1,0 +1,16 @@
+D:\VS Workspace\C_sharp_s1\practice9\bin\Debug\practice9.exe.config
+D:\VS Workspace\C_sharp_s1\practice9\bin\Debug\practice9.exe
+D:\VS Workspace\C_sharp_s1\practice9\bin\Debug\practice9.pdb
+D:\VS Workspace\C_sharp_s1\practice9\obj\Debug\practice9.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\practice9\obj\Debug\practice9.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\practice9\obj\Debug\practice9.exe
+D:\VS Workspace\C_sharp_s1\practice9\obj\Debug\practice9.pdb
+D:\VS Workspace\C_sharp_s1\practice9\obj\Debug\practice9.exe.config
+D:\shang\shang_vs\C_sharp_s1\practice9\bin\Debug\practice9.exe.config
+D:\shang\shang_vs\C_sharp_s1\practice9\bin\Debug\practice9.exe
+D:\shang\shang_vs\C_sharp_s1\practice9\bin\Debug\practice9.pdb
+D:\shang\shang_vs\C_sharp_s1\practice9\obj\Debug\practice9.csproj.AssemblyReference.cache
+D:\shang\shang_vs\C_sharp_s1\practice9\obj\Debug\practice9.exe.config
+D:\shang\shang_vs\C_sharp_s1\practice9\obj\Debug\practice9.csproj.CoreCompileInputs.cache
+D:\shang\shang_vs\C_sharp_s1\practice9\obj\Debug\practice9.exe
+D:\shang\shang_vs\C_sharp_s1\practice9\obj\Debug\practice9.pdb

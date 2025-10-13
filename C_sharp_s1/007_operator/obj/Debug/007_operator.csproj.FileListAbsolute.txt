@@ -1,0 +1,7 @@
+D:\VS Workspace\C_sharp_s1\007_operator\bin\Debug\007_operator.exe.config
+D:\VS Workspace\C_sharp_s1\007_operator\bin\Debug\007_operator.exe
+D:\VS Workspace\C_sharp_s1\007_operator\bin\Debug\007_operator.pdb
+D:\VS Workspace\C_sharp_s1\007_operator\obj\Debug\007_operator.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\007_operator\obj\Debug\007_operator.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\007_operator\obj\Debug\007_operator.exe
+D:\VS Workspace\C_sharp_s1\007_operator\obj\Debug\007_operator.pdb

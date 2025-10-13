@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\004_字元類型\bin\Debug\004_字元類型.exe.config
+D:\VS Workspace\C_sharp_s1\004_字元類型\bin\Debug\004_字元類型.exe
+D:\VS Workspace\C_sharp_s1\004_字元類型\bin\Debug\004_字元類型.pdb
+D:\VS Workspace\C_sharp_s1\004_字元類型\obj\Debug\003_character.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\004_字元類型\obj\Debug\004_字元類型.exe.config
+D:\VS Workspace\C_sharp_s1\004_字元類型\obj\Debug\003_character.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\004_字元類型\obj\Debug\004_字元類型.exe
+D:\VS Workspace\C_sharp_s1\004_字元類型\obj\Debug\004_字元類型.pdb

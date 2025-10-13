@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\practice6\bin\Debug\practice6.exe.config
+D:\VS Workspace\C_sharp_s1\practice6\bin\Debug\practice6.exe
+D:\VS Workspace\C_sharp_s1\practice6\bin\Debug\practice6.pdb
+D:\VS Workspace\C_sharp_s1\practice6\obj\Debug\practice6.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\practice6\obj\Debug\practice6.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\practice6\obj\Debug\practice6.exe
+D:\VS Workspace\C_sharp_s1\practice6\obj\Debug\practice6.pdb
+D:\VS Workspace\C_sharp_s1\practice6\obj\Debug\practice6.exe.config

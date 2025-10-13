@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\read\bin\Debug\read.exe.config
+D:\VS Workspace\C_sharp_s1\read\bin\Debug\read.exe
+D:\VS Workspace\C_sharp_s1\read\bin\Debug\read.pdb
+D:\VS Workspace\C_sharp_s1\read\obj\Debug\read.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\read\obj\Debug\read.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\read\obj\Debug\read.exe
+D:\VS Workspace\C_sharp_s1\read\obj\Debug\read.pdb
+D:\VS Workspace\C_sharp_s1\read\obj\Debug\read.exe.config

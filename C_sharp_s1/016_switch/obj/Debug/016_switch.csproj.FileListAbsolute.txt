@@ -1,0 +1,7 @@
+D:\VS Workspace\C_sharp_s1\016_switch\bin\Debug\016_switch.exe.config
+D:\VS Workspace\C_sharp_s1\016_switch\bin\Debug\016_switch.exe
+D:\VS Workspace\C_sharp_s1\016_switch\bin\Debug\016_switch.pdb
+D:\VS Workspace\C_sharp_s1\016_switch\obj\Debug\016_switch.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\016_switch\obj\Debug\016_switch.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\016_switch\obj\Debug\016_switch.exe
+D:\VS Workspace\C_sharp_s1\016_switch\obj\Debug\016_switch.pdb

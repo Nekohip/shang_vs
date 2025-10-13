@@ -1,0 +1,7 @@
+D:\VS Workspace\data_structure\data_structure\bin\Debug\data_structure.exe.config
+D:\VS Workspace\data_structure\data_structure\bin\Debug\data_structure.exe
+D:\VS Workspace\data_structure\data_structure\bin\Debug\data_structure.pdb
+D:\VS Workspace\data_structure\data_structure\obj\Debug\Factorial.csproj.AssemblyReference.cache
+D:\VS Workspace\data_structure\data_structure\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\VS Workspace\data_structure\data_structure\obj\Debug\data_structure.exe
+D:\VS Workspace\data_structure\data_structure\obj\Debug\data_structure.pdb

@@ -1,0 +1,7 @@
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\bin\Debug\006_advanced_variable.exe.config
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\bin\Debug\006_advanced_variable.exe
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\bin\Debug\006_advanced_variable.pdb
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\obj\Debug\006_advanced_variable.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\obj\Debug\006_advanced_variable.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\obj\Debug\006_advanced_variable.exe
+D:\VS Workspace\C_sharp_s1\006_advanced_variable\obj\Debug\006_advanced_variable.pdb

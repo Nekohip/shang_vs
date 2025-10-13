@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\ReadLine\bin\Debug\ReadLine.exe.config
+D:\VS Workspace\C_sharp_s1\ReadLine\bin\Debug\ReadLine.exe
+D:\VS Workspace\C_sharp_s1\ReadLine\bin\Debug\ReadLine.pdb
+D:\VS Workspace\C_sharp_s1\ReadLine\obj\Debug\004_ReadLine.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\ReadLine\obj\Debug\ReadLine.exe.config
+D:\VS Workspace\C_sharp_s1\ReadLine\obj\Debug\004_ReadLine.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\ReadLine\obj\Debug\ReadLine.exe
+D:\VS Workspace\C_sharp_s1\ReadLine\obj\Debug\ReadLine.pdb

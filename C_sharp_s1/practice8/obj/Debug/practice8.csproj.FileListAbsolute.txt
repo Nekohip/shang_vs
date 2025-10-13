@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\practice8\bin\Debug\practice8.exe.config
+D:\VS Workspace\C_sharp_s1\practice8\bin\Debug\practice8.exe
+D:\VS Workspace\C_sharp_s1\practice8\bin\Debug\practice8.pdb
+D:\VS Workspace\C_sharp_s1\practice8\obj\Debug\practice8.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\practice8\obj\Debug\practice8.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\practice8\obj\Debug\practice8.exe
+D:\VS Workspace\C_sharp_s1\practice8\obj\Debug\practice8.pdb
+D:\VS Workspace\C_sharp_s1\practice8\obj\Debug\practice8.exe.config

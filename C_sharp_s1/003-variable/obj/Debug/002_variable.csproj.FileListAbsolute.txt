@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\003-variable\bin\Debug\003-variable.exe.config
+D:\VS Workspace\C_sharp_s1\003-variable\bin\Debug\003-variable.exe
+D:\VS Workspace\C_sharp_s1\003-variable\bin\Debug\003-variable.pdb
+D:\VS Workspace\C_sharp_s1\003-variable\obj\Debug\002_variable.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\003-variable\obj\Debug\003-variable.exe.config
+D:\VS Workspace\C_sharp_s1\003-variable\obj\Debug\002_variable.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\003-variable\obj\Debug\003-variable.exe
+D:\VS Workspace\C_sharp_s1\003-variable\obj\Debug\003-variable.pdb

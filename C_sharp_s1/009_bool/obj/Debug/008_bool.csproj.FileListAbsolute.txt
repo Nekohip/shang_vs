@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\009_bool\bin\Debug\009_bool.exe.config
+D:\VS Workspace\C_sharp_s1\009_bool\bin\Debug\009_bool.exe
+D:\VS Workspace\C_sharp_s1\009_bool\bin\Debug\009_bool.pdb
+D:\VS Workspace\C_sharp_s1\009_bool\obj\Debug\008_bool.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\009_bool\obj\Debug\009_bool.exe.config
+D:\VS Workspace\C_sharp_s1\009_bool\obj\Debug\008_bool.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\009_bool\obj\Debug\009_bool.exe
+D:\VS Workspace\C_sharp_s1\009_bool\obj\Debug\009_bool.pdb

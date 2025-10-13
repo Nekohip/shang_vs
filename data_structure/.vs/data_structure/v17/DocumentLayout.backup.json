@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Workspace\\data_structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11F20F45-D4FE-403D-9D27-1F016B9EC7F0}|Fibonacci\\Fibonacci.csproj|d:\\vs workspace\\data_structure\\fibonacci\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F20F45-D4FE-403D-9D27-1F016B9EC7F0}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2F115F-9871-49E2-AB84-D15B0157B4E7}|data_structure\\Factorial.csproj|D:\\VS Workspace\\data_structure\\data_structure\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2F115F-9871-49E2-AB84-D15B0157B4E7}|data_structure\\Factorial.csproj|solutionrelative:data_structure\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\data_structure\\Fibonacci\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\Fibonacci.cs",
+              "ToolTip": "D:\\VS Workspace\\data_structure\\Fibonacci\\Fibonacci.cs*",
+              "RelativeToolTip": "Fibonacci\\Fibonacci.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:00:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "factorial.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\data_structure\\data_structure\\factorial.cs",
+              "RelativeDocumentMoniker": "data_structure\\factorial.cs",
+              "ToolTip": "D:\\VS Workspace\\data_structure\\data_structure\\factorial.cs",
+              "RelativeToolTip": "data_structure\\factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:43:47.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

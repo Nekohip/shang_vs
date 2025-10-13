@@ -1,0 +1,8 @@
+D:\VS Workspace\C_sharp_s1\logical_operator\bin\Debug\logical_operator.exe.config
+D:\VS Workspace\C_sharp_s1\logical_operator\bin\Debug\logical_operator.exe
+D:\VS Workspace\C_sharp_s1\logical_operator\bin\Debug\logical_operator.pdb
+D:\VS Workspace\C_sharp_s1\logical_operator\obj\Debug\009_logical_operator.csproj.AssemblyReference.cache
+D:\VS Workspace\C_sharp_s1\logical_operator\obj\Debug\logical_operator.exe.config
+D:\VS Workspace\C_sharp_s1\logical_operator\obj\Debug\009_logical_operator.csproj.CoreCompileInputs.cache
+D:\VS Workspace\C_sharp_s1\logical_operator\obj\Debug\logical_operator.exe
+D:\VS Workspace\C_sharp_s1\logical_operator\obj\Debug\logical_operator.pdb
