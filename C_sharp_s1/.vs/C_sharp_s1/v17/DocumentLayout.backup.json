@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6B07B8D6-01EB-4A74-A615-98A6D4349DF9}|practice9\\practice9.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\practice9\\practice9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B07B8D6-01EB-4A74-A615-98A6D4349DF9}|practice9\\practice9.csproj|solutionrelative:practice9\\practice9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{066E4716-8AB3-448B-A710-B785EB42D56A}|017_contunue\\017_contunue.csproj|D:\\shang\\shang_vs\\C_sharp_s1\\017_contunue\\_017_continue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{066E4716-8AB3-448B-A710-B785EB42D56A}|017_contunue\\017_contunue.csproj|solutionrelative:017_contunue\\_017_continue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_017_continue.cs",
-              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\017_contunue\\_017_continue.cs",
-              "RelativeDocumentMoniker": "017_contunue\\_017_continue.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\017_contunue\\_017_continue.cs",
-              "RelativeToolTip": "017_contunue\\_017_continue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T07:48:53.299Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,9 +24,9 @@
               "RelativeDocumentMoniker": "practice9\\practice9.cs",
               "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs",
               "RelativeToolTip": "practice9\\practice9.cs",
-              "ViewState": "AgIAAL8CAAAAAAAAAAAxwL0CAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T09:22:04.449Z",
+              "WhenOpened": "2025-10-13T14:42:10.923Z",
               "EditorCaption": ""
             }
           ]

@@ -12,7 +12,7 @@ namespace practice9
         static void Main(string[] args)
         {
             //1.輸入整數，如果輸入的不是0就繼續輸入；輸入0結束並輸出所有整數的和
-            /*int sum = 0;
+            /*int sum = 0;00
             int num;
             Console.WriteLine("輸入整數，輸入0加總:");
             
@@ -679,15 +679,15 @@ namespace practice9
                 Console.WriteLine();
             }*/
 
-            //
-            int n = Convert.ToInt32(Console.ReadLine());
+            //老師解
+            /*int n = Convert.ToInt32(Console.ReadLine());
             for (int i = 1; i <= n; i++)
             {
-                for (int j = n - i; j > 0; j--) //要n-1個空格，每行遞減1，i剛好從0開始
+                for (int j = n - i; j > 0; j--) 
                 {
                     Console.Write(" ");
                 }
-                for (int k = 0; k < 2 * i - 1; k++) //(l/i)0+1=1, 1+2=3, 2+3=5 //奇數個*，每行多2顆，i每次回圈+1，l也+1
+                for (int k = 0; k < 2 * i - 1; k++) 
                 {
                     Console.Write("*");
                 }
@@ -695,16 +695,18 @@ namespace practice9
             }
             for (int i = 1; i <= n-1; i++)
             {
-                for (int j = i; j > 0; j--) //要n-1個空格，每行遞減1，i剛好從0開始
+                for (int j = i; j > 0; j--)  //i個空格，每列+1
                 {
                     Console.Write(" ");
                 }
-                for (int k = 2 * (n - i) -1; k > 0; k--) //(l/i)0+1=1, 1+2=3, 2+3=5 //奇數個*，每行多2顆，i每次回圈+1，l也+1
+                //*左半邊每列數量和每列空格數相反且遞減，右半邊需要左半數量-1個*
+                //故每列*數量為2(n-i)-1
+                for (int k = 2 * (n - i) -1; k > 0; k--) 
                 {
                     Console.Write("*");
                 }
                 Console.WriteLine();
-            }
+            }*/
 
             //29.九九乘法表
             /*for(int i = 1; i < 10; i++)  //n1
