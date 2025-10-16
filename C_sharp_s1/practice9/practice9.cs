@@ -714,7 +714,17 @@ namespace practice9
                 for (int j = 1; j < 10; j++)
                 {
                     int k = j * i;
-                    Console.WriteLine(i + "*" + j + "=" + k+" ");
+                    Console.Write(i + "*" + j + "=" + k + " ");
+                }
+                Console.WriteLine();
+            }*/
+
+            //老師解
+            /*for (int i = 1; i < 10; i++)  //n1
+            {
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("{0}x{1}={2} ", j, i, j * i);
                 }
                 Console.WriteLine();
             }*/
@@ -723,6 +733,7 @@ namespace practice9
             /*int male = 3;
             int female = 5;
             int child = 2;
+            int result_sum = 0;
 
             for(int i = 1; i <= 100; i++)
             {
@@ -736,10 +747,31 @@ namespace practice9
                             Console.WriteLine("公雞" + i + "隻 " + 
                                 "母雞" + j + "隻 " + "小雞" + k + "隻 "+ 
                                 "=" + money_sum + "元");
+                            result_sum++;
                         }                      
                     }                
                 }               
-            }*/
+            }
+            Console.Write("共{0}種買法", result_sum);*/
+
+            //老師解
+            //x公雞1-33,母雞1-20,小雞1-50
+            /*int result_sum = 0;
+            for (int x = 1; x <= 100 / 3; x++)
+            {
+                for (int y = 1; y <= 100 / 5; y++)
+                {
+                    for (int z = 1; z <= 100 / 2; z++)
+                    {
+                        if(x * 3 + y * 5 + z * 2 == 100)
+                        {
+                            Console.WriteLine("公雞{0}, 公雞{1}, 公雞{2}",x ,y ,z);
+                            result_sum++;
+                        }
+                    }
+                }
+            }
+            Console.Write("共有{0}種買法", result_sum);*/
 
             //31.輸入n1和n2，找出兩數的最大公因數
             /*int n1 = Convert.ToInt32(Console.ReadLine());
@@ -756,7 +788,50 @@ namespace practice9
                 }
             }*/
 
-            //32.
+            //老師解(只要遍歷較小的數字就好)
+            /*int n1 = Convert.ToInt32(Console.ReadLine());
+            int n2 = Convert.ToInt32(Console.ReadLine());
+            //找較小數
+            int min = n1;
+            if(n2 < n1)
+            {
+                min = n2;
+            }
+
+            for (int i = min; i > 0; i--)
+            {
+                if (n1 % i == 0 && n2 % i == 0)
+                {
+                    Console.Write("最大公因數:" + i);
+                    return;
+                }
+            }*/
+            //32.猜數字
+            Random random_num = new Random();
+            int num = random_num.Next(1, 100);
+
+            while (true)
+            {
+                Console.Write("1-100,猜一數字:");
+                int user_num = Convert.ToInt32(Console.ReadLine());
+
+                if(user_num == num)
+                {
+                    Console.Write("猜對了");
+                    return;
+                }
+                if(user_num < num)
+                {
+                    Console.WriteLine("太小");
+                    continue;
+                }
+                if (user_num > num)
+                {
+                    Console.WriteLine("太大");
+                    continue;
+                }
+            }
+
 
         }
     }

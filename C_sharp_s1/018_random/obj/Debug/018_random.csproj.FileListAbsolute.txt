@@ -1,0 +1,8 @@
+D:\shang\shang_vs\C_sharp_s1\018_random\bin\Debug\018_random.exe.config
+D:\shang\shang_vs\C_sharp_s1\018_random\bin\Debug\018_random.exe
+D:\shang\shang_vs\C_sharp_s1\018_random\bin\Debug\018_random.pdb
+D:\shang\shang_vs\C_sharp_s1\018_random\obj\Debug\018_random.csproj.AssemblyReference.cache
+D:\shang\shang_vs\C_sharp_s1\018_random\obj\Debug\018_random.csproj.CoreCompileInputs.cache
+D:\shang\shang_vs\C_sharp_s1\018_random\obj\Debug\018_random.exe
+D:\shang\shang_vs\C_sharp_s1\018_random\obj\Debug\018_random.pdb
+D:\shang\shang_vs\C_sharp_s1\018_random\obj\Debug\018_random.exe.config

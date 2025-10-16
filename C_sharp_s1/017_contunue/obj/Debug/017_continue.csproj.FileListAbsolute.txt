@@ -1,0 +1,8 @@
+D:\shang\shang_vs\C_sharp_s1\017_contunue\bin\Debug\017_contunue.exe.config
+D:\shang\shang_vs\C_sharp_s1\017_contunue\bin\Debug\017_contunue.exe
+D:\shang\shang_vs\C_sharp_s1\017_contunue\bin\Debug\017_contunue.pdb
+D:\shang\shang_vs\C_sharp_s1\017_contunue\obj\Debug\017_continue.csproj.AssemblyReference.cache
+D:\shang\shang_vs\C_sharp_s1\017_contunue\obj\Debug\017_contunue.exe.config
+D:\shang\shang_vs\C_sharp_s1\017_contunue\obj\Debug\017_continue.csproj.CoreCompileInputs.cache
+D:\shang\shang_vs\C_sharp_s1\017_contunue\obj\Debug\017_contunue.exe
+D:\shang\shang_vs\C_sharp_s1\017_contunue\obj\Debug\017_contunue.pdb
