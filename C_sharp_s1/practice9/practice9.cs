@@ -815,20 +815,20 @@ namespace practice9
                 Console.Write("1-100,猜一數字:");
                 int user_num = Convert.ToInt32(Console.ReadLine());
 
-                if(user_num == num)
-                {
-                    Console.Write("猜對了");
-                    return;
-                }
                 if(user_num < num)
                 {
                     Console.WriteLine("太小");
                     continue;
                 }
-                if (user_num > num)
+                else if (user_num > num)
                 {
                     Console.WriteLine("太大");
                     continue;
+                }
+                else 
+                {
+                    Console.Write("猜對了，答案是" + num);
+                    return;
                 }
             }
 

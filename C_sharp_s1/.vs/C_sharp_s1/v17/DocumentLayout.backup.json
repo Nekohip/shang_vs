@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{6B07B8D6-01EB-4A74-A615-98A6D4349DF9}|practice9\\practice9.csproj|solutionrelative:practice9\\practice9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A53E731-EB54-4953-A4B6-3653FCCA3E25}|018_random\\018_random.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\018_random\\_018_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A53E731-EB54-4953-A4B6-3653FCCA3E25}|018_random\\018_random.csproj|D:\\shang\\shang_vs\\C_sharp_s1\\018_random\\_018_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A53E731-EB54-4953-A4B6-3653FCCA3E25}|018_random\\018_random.csproj|solutionrelative:018_random\\_018_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CF501D5-80BF-4B67-BBB7-1AC0350530D3}|015_Scope\\015_Scope.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\015_scope\\_015_scope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CF501D5-80BF-4B67-BBB7-1AC0350530D3}|015_Scope\\015_Scope.csproj|solutionrelative:015_scope\\_015_scope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -39,26 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_015_Scope.cs",
-              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\015_Scope\\_015_Scope.cs",
-              "RelativeDocumentMoniker": "015_Scope\\_015_Scope.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\015_Scope\\_015_Scope.cs",
-              "RelativeToolTip": "015_Scope\\_015_Scope.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAnwCMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:56:46.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "practice9.cs",
               "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs",
               "RelativeDocumentMoniker": "practice9\\practice9.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs",
-              "RelativeToolTip": "practice9\\practice9.cs",
-              "ViewState": "AgIAACgDAAAAAAAAAAAiwC8DAAAQAAAAAAAAAA==",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs*",
+              "RelativeToolTip": "practice9\\practice9.cs*",
+              "ViewState": "AgIAACgDAAAAAAAAAAAiwD0DAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T14:42:10.923Z",
               "EditorCaption": ""
