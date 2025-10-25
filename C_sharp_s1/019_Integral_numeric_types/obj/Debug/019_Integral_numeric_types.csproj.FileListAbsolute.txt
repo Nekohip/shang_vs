@@ -1,0 +1,8 @@
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\bin\Debug\019_Integral_numeric_types.exe.config
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\bin\Debug\019_Integral_numeric_types.exe
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\bin\Debug\019_Integral_numeric_types.pdb
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\obj\Debug\019_Integral_numeric_types.csproj.AssemblyReference.cache
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\obj\Debug\019_Integral_numeric_types.csproj.CoreCompileInputs.cache
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\obj\Debug\019_Integral_numeric_types.exe
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\obj\Debug\019_Integral_numeric_types.pdb
+D:\shang\shang_vs\C_sharp_s1\019_Integral_numeric_types\obj\Debug\019_Integral_numeric_types.exe.config

@@ -1,0 +1,8 @@
+D:\shang\shang_vs\C_sharp_s1\020_casting\bin\Debug\020_casting.exe.config
+D:\shang\shang_vs\C_sharp_s1\020_casting\bin\Debug\020_casting.exe
+D:\shang\shang_vs\C_sharp_s1\020_casting\bin\Debug\020_casting.pdb
+D:\shang\shang_vs\C_sharp_s1\020_casting\obj\Debug\020_casting.csproj.AssemblyReference.cache
+D:\shang\shang_vs\C_sharp_s1\020_casting\obj\Debug\020_casting.csproj.CoreCompileInputs.cache
+D:\shang\shang_vs\C_sharp_s1\020_casting\obj\Debug\020_casting.exe
+D:\shang\shang_vs\C_sharp_s1\020_casting\obj\Debug\020_casting.pdb
+D:\shang\shang_vs\C_sharp_s1\020_casting\obj\Debug\020_casting.exe.config

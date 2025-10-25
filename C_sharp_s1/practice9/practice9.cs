@@ -825,7 +825,8 @@ namespace practice9
                     Console.WriteLine("太大");
                     continue;
                 }
-                else 
+                else
+
                 {
                     Console.Write("猜對了，答案是" + num);
                     return;

@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\shang\\shang_vs\\C_sharp_s1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B07B8D6-01EB-4A74-A615-98A6D4349DF9}|practice9\\practice9.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\practice9\\practice9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B563BF61-FD18-409F-ADF1-F8D3B73F6480}|020_casting\\020_casting.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\020_casting\\casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B563BF61-FD18-409F-ADF1-F8D3B73F6480}|020_casting\\020_casting.csproj|solutionrelative:020_casting\\casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20455F-22B0-476A-A319-A2ACD9198936}|019_Integral_numeric_types\\019_Integral_numeric_types.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\019_integral_numeric_types\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20455F-22B0-476A-A319-A2ACD9198936}|019_Integral_numeric_types\\019_Integral_numeric_types.csproj|solutionrelative:019_integral_numeric_types\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07B8D6-01EB-4A74-A615-98A6D4349DF9}|practice9\\practice9.csproj|D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B07B8D6-01EB-4A74-A615-98A6D4349DF9}|practice9\\practice9.csproj|solutionrelative:practice9\\practice9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "casting.cs",
+              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\020_casting\\casting.cs",
+              "RelativeDocumentMoniker": "020_casting\\casting.cs",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\020_casting\\casting.cs*",
+              "RelativeToolTip": "020_casting\\casting.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:59:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "types.cs",
+              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\019_Integral_numeric_types\\types.cs",
+              "RelativeDocumentMoniker": "019_Integral_numeric_types\\types.cs",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\019_Integral_numeric_types\\types.cs",
+              "RelativeToolTip": "019_Integral_numeric_types\\types.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:42:53.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_018_random.cs",
               "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\018_random\\_018_random.cs",
               "RelativeDocumentMoniker": "018_random\\_018_random.cs",
@@ -30,21 +64,19 @@
               "RelativeToolTip": "018_random\\_018_random.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:57:52.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T14:57:52.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "practice9.cs",
               "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs",
               "RelativeDocumentMoniker": "practice9\\practice9.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs*",
-              "RelativeToolTip": "practice9\\practice9.cs*",
-              "ViewState": "AgIAACgDAAAAAAAAAAAiwD0DAAAuAAAAAAAAAA==",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\practice9\\practice9.cs",
+              "RelativeToolTip": "practice9\\practice9.cs",
+              "ViewState": "AgIAAC4DAAAAAAAAAAAiwDoDAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:42:10.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T14:42:10.923Z"
             }
           ]
         }
