@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\shang\\shang_vs\\C_sharp_s1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B563BF61-FD18-409F-ADF1-F8D3B73F6480}|020_casting\\020_casting.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\020_casting\\casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B563BF61-FD18-409F-ADF1-F8D3B73F6480}|020_casting\\020_casting.csproj|solutionrelative:020_casting\\casting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D20455F-22B0-476A-A319-A2ACD9198936}|019_Integral_numeric_types\\019_Integral_numeric_types.csproj|D:\\shang\\shang_vs\\C_sharp_s1\\019_integral_numeric_types\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D20455F-22B0-476A-A319-A2ACD9198936}|019_Integral_numeric_types\\019_Integral_numeric_types.csproj|solutionrelative:019_integral_numeric_types\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A53E731-EB54-4953-A4B6-3653FCCA3E25}|018_random\\018_random.csproj|D:\\shang\\shang_vs\\C_sharp_s1\\018_random\\_018_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A53E731-EB54-4953-A4B6-3653FCCA3E25}|018_random\\018_random.csproj|solutionrelative:018_random\\_018_random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DD90682-8272-4998-82C8-003CF8549A09}|021_array\\021_array.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\021_array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD90682-8272-4998-82C8-003CF8549A09}|021_array\\021_array.csproj|solutionrelative:021_array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "casting.cs",
-              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\020_casting\\casting.cs",
-              "RelativeDocumentMoniker": "020_casting\\casting.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\020_casting\\casting.cs",
-              "RelativeToolTip": "020_casting\\casting.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Title": "array.cs",
+              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\021_array\\array.cs",
+              "RelativeDocumentMoniker": "021_array\\array.cs",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\021_array\\array.cs*",
+              "RelativeToolTip": "021_array\\array.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T07:59:08.476Z",
+              "WhenOpened": "2025-11-02T07:51:13.454Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "types.cs",
-              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\019_Integral_numeric_types\\types.cs",
-              "RelativeDocumentMoniker": "019_Integral_numeric_types\\types.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\019_Integral_numeric_types\\types.cs",
-              "RelativeToolTip": "019_Integral_numeric_types\\types.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:42:53.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_018_random.cs",
-              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\018_random\\_018_random.cs",
-              "RelativeDocumentMoniker": "018_random\\_018_random.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\018_random\\_018_random.cs",
-              "RelativeToolTip": "018_random\\_018_random.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:57:52.963Z"
             }
           ]
         }
