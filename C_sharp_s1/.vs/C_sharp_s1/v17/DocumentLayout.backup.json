@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\shang\\shang_vs\\C_sharp_s1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{193F9A4E-A312-4D96-BC62-98811AD2DAD4}|practice10\\practice10.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\practice10\\practice10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193F9A4E-A312-4D96-BC62-98811AD2DAD4}|practice10\\practice10.csproj|solutionrelative:practice10\\practice10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DD90682-8272-4998-82C8-003CF8549A09}|021_array\\021_array.csproj|d:\\shang\\shang_vs\\c_sharp_s1\\021_array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DD90682-8272-4998-82C8-003CF8549A09}|021_array\\021_array.csproj|solutionrelative:021_array\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "practice10.cs",
+              "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\practice10\\practice10.cs",
+              "RelativeDocumentMoniker": "practice10\\practice10.cs",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\practice10\\practice10.cs*",
+              "RelativeToolTip": "practice10\\practice10.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:08:50.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "array.cs",
               "DocumentMoniker": "D:\\shang\\shang_vs\\C_sharp_s1\\021_array\\array.cs",
               "RelativeDocumentMoniker": "021_array\\array.cs",
-              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\021_array\\array.cs*",
-              "RelativeToolTip": "021_array\\array.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAApAAAAAAAAAA==",
+              "ToolTip": "D:\\shang\\shang_vs\\C_sharp_s1\\021_array\\array.cs",
+              "RelativeToolTip": "021_array\\array.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAApwC4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T07:51:13.454Z",
               "EditorCaption": ""

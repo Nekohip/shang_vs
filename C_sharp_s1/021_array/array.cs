@@ -24,7 +24,7 @@ namespace _021_array
             //即使沒有指定長度，陣列長度聲明後就固定了，也不能往後加元素
             /*ages2[10] = 22;
             Console.WriteLine(ages2[10]);*/
-            
+
             //指定元素 >> 陣列名[索引]
             //Console.WriteLine(ages2[0]);
 
@@ -35,7 +35,7 @@ namespace _021_array
 
             //正常創建方式，ages2的方式是縮寫
             //[]中不寫大小，系統會從{}裡的個數判斷
-            //ages3 = new int[] { 1, 2, 3, 4 };
+            ages3 = new int[] { 1, 2, 3, 4 };
 
             //大小是從1開始算的，數量和設定的一定要一樣
             ages3 = new int[5] { 1, 2, 3, 4, 5 };
